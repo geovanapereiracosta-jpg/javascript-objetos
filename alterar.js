@@ -14,6 +14,6 @@ pessoa.nome = "Luma Silva";
 console.log(pessoa.nome);
 
 const Novapessoa = {
-    nome: "Pedro";
+    nome: "Pedro",
 };
 
